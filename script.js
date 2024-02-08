@@ -22,6 +22,7 @@ const closeModal = function () {
 
 //Event Listeners: Se agregan event listeners a los botones para abrir el modal
 
+// iteración sobre botones para abrir modal y control de cierre con teclado
 for (let i = 0; i < btnsOpenModal.length; i++)
   btnsOpenModal[i].addEventListener('click', openModal)
 btnCloseModal.addEventListener('click', closeModal)
