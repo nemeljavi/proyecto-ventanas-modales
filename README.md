@@ -1,6 +1,6 @@
 # proyecto-ventanas-modales
 
-javitj.certweb.infenlaces.com
+http://javitj.certweb.infenlaces.com/proyecto-ventanas-modales/
 
 - Fork del repositorio
 - git clone para tenerlo en local
